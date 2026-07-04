@@ -90,3 +90,72 @@ http://tv.ec.cx:1935/WSZF8sTB/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",NICKELODEON 
 http://tv.ec.cx:1935/BY8EMBQP/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/01/wp-1452618158933.jpg" group-title="Adulto",SEX ZONE 
+http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CJVrTy" group-title="Adulto",Candy TV 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" group-title="Canais Porno",BUTGO 
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" group-title="Canais adultos", BUTGO! 
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/OtWcrT" group-title="Canais Porno",ASK TV 
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wcAObA" group-title="Canais Porno",PENTHOUSE ASIA 18+ 
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GtyTQH" group-title="Canais Porno",SAKURA PORN TV 
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b2ZEuF" group-title="Canais Porno",JASMIN TV 
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",LIVETING TV 
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="Canais Porno",VISIT-X TV [COLOR orange](ON)[/COLOR]
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18 
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO" group-title="ADULTO", PLAYBOY TV MWINFO (APENAS KODI) 
+rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="ADULTO" group-title="ADULTO", SEXY SAT 1 
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/0UwJ98" group-title="Adulto",Redlight HD [COLOR 
+rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
+
+#EXTINF:-1 tvg-logo="http://s10.postimg.org/wkyrrzns9/PrivateTV.png" group-title="Adulto",PRIVATE TV 
+rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" group-title="Canais Porno",  +18 
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sF00Y6" group-title="Canais Porno",  +18 
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4F36aX" group-title="Canais adultos" pltv-subgroup="Inglês", PENTHOUSE ASIA 
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/OSRPRM" group-title="Canais adultos" pltv-subgroup="Inglês", LIVE TING 
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT" group-title="Adulto",FUNDORADO TV 
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="Adulto",SEXY SAT TV 
+rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/sexysat-tv_online/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="Adulto",BRASILEIRINHAS TV 
+rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
+
