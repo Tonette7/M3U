@@ -17,3 +17,76 @@ https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/29f7ffb2c1c1e2745
 https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/126862f74c1d36e0494a2d4b57b2ee77/redetv.txt
 #EXTINF:-1 tvg-id="cultura" tvg-name="TV Cultura",TV Cultura
 https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/21be8482fe372a1ccf1677383fea2b02/cultura.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/brazil/animalplanet.png" group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4831
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", SBT  
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="",BAND 
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png" group-title="CANAL ABERTO",REDETV HD 
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P0XMqwI.jpg" group-title="ABERTAS-NOTICIAS",RECORD NEWS 
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/1XNfzj" group-title="Canais Abertos",TV GAZETA 
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/jy9ug0er1/TV_Gazeta.png" , TV GAZETA 
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAL ABERTO", TV GAZETA HD 
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV CULTURA  
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title="CANAL ABERTO", REDE BRASIL 
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="GloboSat",MULTISHOW 
+http://m3u.me/baP
+#EXTINF: -1 tvg-logo="http://www.hittv.es/img/cabeceras/HITtv1.jpg", HIT TV 
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/SkSqFt" group-title="Desenhos", CARTOON NETWORK 
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/UIsjox" group-title="Infantil", ANIME TV 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UPg5qC" group-title="Infantil", ANIME TV (2) 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7Y4hBP" group-title="desenhos", GLOOB 
+http://187.49.86.238:10000/bysid/94
+
+#EXTINF:-1 tvg-logo="https://goo.gl/woxJvM" group-title="Filmes e Séries", HISTORY HD 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vLnxcr" group-title="INFANTIL",DESENHOS 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Desenhos",DISNEY CHANNEL 
+http://tv.ec.cx:1935/WSZF8sTB/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",NICKELODEON 
+http://tv.ec.cx:1935/BY8EMBQP/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UIsjox" group-title="Infantil", ANIME TV 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UPg5qC" group-title="Infantil", ANIME TV (2) 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7Y4hBP" group-title="desenhos", GLOOB 
+http://187.49.86.238:10000/bysid/94
+
+#EXTINF:-1 tvg-logo="https://goo.gl/woxJvM" group-title="Filmes e Séries", HISTORY HD 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vLnxcr" group-title="INFANTIL",DESENHOS 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Desenhos",DISNEY CHANNEL 
+http://tv.ec.cx:1935/WSZF8sTB/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",NICKELODEON 
+http://tv.ec.cx:1935/BY8EMBQP/myStream/playlist.m3u8
