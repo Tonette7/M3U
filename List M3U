@@ -159,3 +159,5 @@ rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/u
 #EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="Adulto",BRASILEIRINHAS TV 
 rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
 
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s6.postimg.org/ik4szkwe9/record.png" group-title="TV Aberta",Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?PEDROJUNIORTUTORIAIS
